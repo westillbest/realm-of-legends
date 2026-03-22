@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://westillbest.github.io/realm-of-legends/sitemap.xml
